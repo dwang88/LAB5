@@ -21,3 +21,8 @@ Student: I finally found where the missing semicolon was because of the error me
 ![Image](successcode.png)
 ![Image](successoutput.png)
 
+
+
+**Part 2: Reflection**
+
+I really enjoyed the lab sections this quarter. It was nice getting to know some of the TAs in this class and their experiences with CS beyond the classroom (shout out my TA). Something cool that I learned was getting to know how to use vim and editing from the terminal (w/o the files displayed). 
