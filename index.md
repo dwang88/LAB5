@@ -7,6 +7,7 @@ Hi TAs! I have been having some trouble with writing a sum method to calculate t
 ![Image](tests.png)
 
 This is the file and directory structure:
+
 ![Image](structure.png)
 
 TA:
