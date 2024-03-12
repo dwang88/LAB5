@@ -2,7 +2,7 @@
 
 Student:
 
-Hi TAs! I have been having some trouble with writing a sum method to calculate the sum of an array. I attached my code and tests below. 
+Hi TAs! I have been having some trouble with writing a sum method to calculate the sum of an array. I think the error I'm getting might be related to my sum method, but I am not sure. As for the string literal error, it might have something to do with my print statement. I attached my code and tests below. 
 ![Image](buggycode.png)
 ![Image](tests.png)
 
