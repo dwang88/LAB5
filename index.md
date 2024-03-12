@@ -17,7 +17,9 @@ Using your current code and tester file, I got these error messages. This is the
 ![Image](testoutput.png)
 
 
-Student: I finally found where the missing semicolon was because of the error message! For the unclose string literal, I accidentally used ```"``` and ```'```. For my sum method, my error was adding one to length, causing it to go out of bounds on the last iteration. I attached my updated code and test output. Thank you for the help! 
+Student:
+
+I finally found where the missing semicolon was because of the error message! For the unclose string literal, I accidentally used ```"``` and ```'```. For my sum method, my error was adding one to length, causing it to go out of bounds on the last iteration. I attached my updated code and test output. Thank you for the help! 
 ![Image](successcode.png)
 ![Image](successoutput.png)
 
